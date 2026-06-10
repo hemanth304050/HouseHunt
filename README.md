@@ -24,6 +24,7 @@ A modern, responsive web application designed to streamline the property rental 
 * **❤️ Favorites/Wishlist:** Keep track of your shortlisted properties with a built-in saved counter.
 
 ---
+#link -> https://dhkhousehunt.netlify.app/
 
 ## 📸 Preview
 
@@ -72,7 +73,7 @@ cd HouseHunt
 
 3. **Launch the application:**
 Simply double-click or open `househunt.html` in any modern web browser to run it locally.
-
+#Deployed in NETLIFY -> https://dhkhousehunt.netlify.app/
 ---
 
 ## 📝 License
